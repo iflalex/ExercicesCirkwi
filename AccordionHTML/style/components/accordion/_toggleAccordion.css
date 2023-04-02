@@ -1,0 +1,21 @@
+/* Toggle click arrow */
+.accordionOpen{
+  width: 100%;
+  margin-bottom: 30px;
+}
+.headerChangeColor{
+  background-color: lightseagreen!important;
+}
+.headerChangeColor h2{
+  color: white!important;
+}
+.headerChangeColor div{
+  transform: rotate(0deg)!important;
+  background: url('../../../assets/ArrowWhite.png') no-repeat center center / contain !important;
+}
+.showContentAccordion{
+  display: flex!important;
+  border-bottom: 1px solid lightgray!important;
+  border-left: 1px solid lightgray!important;
+  border-right: 1px solid lightgray!important;
+}
